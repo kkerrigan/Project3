@@ -1,0 +1,16 @@
+﻿  ee_main.cpp
+  variable.cpp
+  tokenizer.cpp
+  token.cpp
+  RPNEvaluator.cpp
+  real.cpp
+  parser.cpp
+  operator.cpp
+  operation.cpp
+  operand.cpp
+  integer.cpp
+  function.cpp
+  expression_evaluator.cpp
+  boolean.cpp
+  Generating Code...
+  ee.vcxproj -> C:\$$VisualStudioWorkspace\KKerrigan_Project2_3\Debug\ee.exe

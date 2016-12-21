@@ -1,0 +1,15 @@
+Running Project 2. ut_tokens with all revelant tags set to true should run 5 test cases with no errors
+Running Project 3. ut_tokenizer with all revelant tags set to true should run 68 test cases with no errors
+Running Project 4. ut_parser with all revelant tags set to true should run 21 test cases with no errors
+Running Project 5. ut_rpn_evaluator with all flags except TEST_RESULT(because it isn't used) set to true should run 107 test cases with no errors
+Running Project 6. ut_expression_evulator with all flags except TEST_VARIABLE and TEST_RESULT set to true should run 61 test cases with no errors
+Running Project ee will open the console window to allow you to put string input in to fully test the program
+
+TEST_TOKENIZER, TEST_PARSER, and TEST_EE stay true for all projects in solution
+
+The only two source files in common with no implementation code are operand.cpp and operation.cpp
+
+I can't remember if you mark in DEBUG or Release mode, but for some reason that I didn't have time to find 41 tests fail in Project 6 in release,
+so I am hoping you only mark in debug...
+
+Have a great holiday Lianne, and thank you for the great semester! :)
